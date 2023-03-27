@@ -2,4 +2,5 @@ plotly
 pandas
 streamlit
 joblib
+sklearn
 numpy
